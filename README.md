@@ -1,25 +1,27 @@
-# Flash-Pay
-Initial Commit
+<h1>Flash-Pay</h1>
 
-Services Offered
-User Login and Signup.
-Add money from bank account to wallet.
-Transfer money from wallet to wallet.
-Deposit Money from wallet to Bank Account.
-User can pay different different bills.
-User can get all transaction history, bill payments.
+<h3>Services Offered</h3>
 
-Backend
-Built authentication while login and logout using key.
-Stored data on MySQL.
-Input Validation.
-Implement Login and logout Functionality with CurrentSeesionUser table.
+- User Login and Signup.
+- Add money from bank account to wallet.
+- Transfer money from wallet to wallet.
+- Deposit Money from wallet to Bank Account.
+- User can pay different different bills.
+- User can get all transaction history, bill payments.
 
-Technology Used
-Java
-Spring
-Spring Boot
-Spring data JPA
-Hibernate
-MySQL
+<h3>Backend</h3>
+
+- Built authentication while login and logout using key.
+- Stored data on MySQL.
+- Input Validation.
+- Implement Login and logout Functionality with CurrentSeesionUser table.
+
+<h3>Technology Used</h3>
+
+- Java
+- Spring
+- Spring Boot
+- Spring data JPA
+- Hibernate
+- MySQL
 
